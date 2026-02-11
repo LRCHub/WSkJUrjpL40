@@ -1,0 +1,272 @@
+{
+  "version": 1,
+  "base_track": "Talk to You",
+  "base_artist": "YEONJUN",
+  "createdAt": "2026-02-11T19:10:40.554760Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Try To Talk To You",
+      "artist": "Hercules & Love Affair",
+      "has_synced": true,
+      "path": "select/01_I_Try_To_Talk_To_You_Hercules_&_Love_Affair.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Try to Talk to You",
+      "artist": "Hercules and Love Affair",
+      "has_synced": true,
+      "path": "select/02_I_Try_to_Talk_to_You_Hercules_and_Love_Affair.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Try to Talk to You (Morgan Geist remix)",
+      "artist": "Hercules & Love Affair",
+      "has_synced": false,
+      "path": "select/03_I_Try_to_Talk_to_You_(Morgan_Geist_remix)_Hercules_&_Love_Affair.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Try to Talk to You (Morgan Geist remix)",
+      "artist": "Hercules and Love Affair",
+      "has_synced": false,
+      "path": "select/04_I_Try_to_Talk_to_You_(Morgan_Geist_remix)_Hercules_and_Love_Affair.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Try to Talk to You (Seth Troxler extended NYC mix)",
+      "artist": "Hercules & Love Affair",
+      "has_synced": false,
+      "path": "select/05_I_Try_to_Talk_to_You_(Seth_Troxler_extended_NYC_mix)_Hercules_&_Love_Affair.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "To Talk to You",
+      "artist": "PJ Harvey",
+      "has_synced": false,
+      "path": "select/06_To_Talk_to_You_PJ_Harvey.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Talk to You",
+      "artist": "King's X",
+      "has_synced": true,
+      "path": "select/07_Talk_to_You_King's_X.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Medley: Sexy Ladies / Let Me Talk to You (Prelude)",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/08_Medley__Sexy_Ladies___Let_Me_Talk_to_You_(Prelude)_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sexy Ladies\u0000Let Me Talk To You Prelude",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/09_Sexy_Ladies\u0000Let_Me_Talk_To_You_Prelude_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Talk to You",
+      "artist": "Tracy Chapman",
+      "has_synced": true,
+      "path": "select/10_Talk_to_You_Tracy_Chapman.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Let Me Talk To You",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/11_Let_Me_Talk_To_You_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Talk To You",
+      "artist": "Alicia Witt",
+      "has_synced": false,
+      "path": "select/12_Talk_To_You_Alicia_Witt.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Try To Talk To You",
+      "artist": "Hercules & Love Affair feat. John Grant",
+      "has_synced": true,
+      "path": "select/13_I_Try_To_Talk_To_You_Hercules_&_Love_Affair_feat._John_Grant.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Try To Talk To You",
+      "artist": "Hercules & Love Affair John Grant",
+      "has_synced": true,
+      "path": "select/14_I_Try_To_Talk_To_You_Hercules_&_Love_Affair_John_Grant.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Running Back (Trying to Talk to You)",
+      "artist": "Train",
+      "has_synced": true,
+      "path": "select/15_Running_Back_(Trying_to_Talk_to_You)_Train.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Talk to You",
+      "artist": "Ricky Montgomery",
+      "has_synced": true,
+      "path": "select/16_Talk_to_You_Ricky_Montgomery.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "How To Talk To Girls",
+      "artist": "Brantley Gilbert",
+      "has_synced": true,
+      "path": "select/17_How_To_Talk_To_Girls_Brantley_Gilbert.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Talk to Me Texas",
+      "artist": "Keith Whitley",
+      "has_synced": true,
+      "path": "select/18_Talk_to_Me_Texas_Keith_Whitley.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Come Talk to Me",
+      "artist": "Bon Iver",
+      "has_synced": true,
+      "path": "select/19_Come_Talk_to_Me_Bon_Iver.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Come Talk to Me (Peter Gabriel Cover)",
+      "artist": "Bon Iver",
+      "has_synced": true,
+      "path": "select/20_Come_Talk_to_Me_(Peter_Gabriel_Cover)_Bon_Iver.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Don't Talk to Me About Work",
+      "artist": "Lou Reed",
+      "has_synced": true,
+      "path": "select/21_Don't_Talk_to_Me_About_Work_Lou_Reed.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Talk To Me Devil, Again",
+      "artist": "Magnolia Electric Co.",
+      "has_synced": false,
+      "path": "select/22_Talk_To_Me_Devil,_Again_Magnolia_Electric_Co..txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Talk to Me Devil, Again",
+      "artist": "Magnolia Electric Co.",
+      "has_synced": true,
+      "path": "select/23_Talk_to_Me_Devil,_Again_Magnolia_Electric_Co..lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "I Talk To The Wind",
+      "artist": "Opus III",
+      "has_synced": true,
+      "path": "select/24_I_Talk_To_The_Wind_Opus_III.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Talk to Me You'll Understand",
+      "artist": "Ross from Friends",
+      "has_synced": true,
+      "path": "select/25_Talk_to_Me_You'll_Understand_Ross_from_Friends.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "You Can't Talk To Me Like That",
+      "artist": "Nikki Lane",
+      "has_synced": true,
+      "path": "select/26_You_Can't_Talk_To_Me_Like_That_Nikki_Lane.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Come & Talk To Me",
+      "artist": "Jodeci",
+      "has_synced": true,
+      "path": "select/27_Come_&_Talk_To_Me_Jodeci.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Mama Talk to Your Daughter",
+      "artist": "Robert Palmer",
+      "has_synced": false,
+      "path": "select/28_Mama_Talk_to_Your_Daughter_Robert_Palmer.txt"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Talk To Me",
+      "artist": "Chico DeBarge",
+      "has_synced": false,
+      "path": "select/29_Talk_To_Me_Chico_DeBarge.txt"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Talk To Me",
+      "artist": "Chris Isaak",
+      "has_synced": false,
+      "path": "select/30_Talk_To_Me_Chris_Isaak.txt"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Talk to Me",
+      "artist": "Stevie Nicks",
+      "has_synced": true,
+      "path": "select/31_Talk_to_Me_Stevie_Nicks.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Talk to Me",
+      "artist": "Stevie Nicks",
+      "has_synced": false,
+      "path": "select/32_Talk_to_Me_Stevie_Nicks.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Talk to You",
+      "artist": "YEONJUN",
+      "has_synced": false,
+      "path": "select/pl_01_Talk_to_You_YEONJUN.txt"
+    }
+  ]
+}
